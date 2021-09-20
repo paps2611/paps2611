@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paps2611
+- 👋 Hi, I’m Pratyush
 - 👀 I’m interested in ...Machine learning and Web Development
 - 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ... 
