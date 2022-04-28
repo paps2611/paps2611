@@ -1,0 +1,13 @@
+Object detection code-
+
+You will have to install the following modules first;-
+1. tensorflow
+2. tensorflow_hub
+3. cv2
+4. PIL
+
+
+Download a sample image for object detection and save it in your code directory.
+Inference time is usually 120-150s so wait after the code execution. 
+
+Sample input and output are provided in the directory.
