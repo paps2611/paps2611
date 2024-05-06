@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Pratyush
-- 👀 I’m interested in ...Machine learning and Web Development
-- 🌱 I’m currently learning ... Android dev with Flutter.
+- 👀 I’m interested in ...Machine learning and Android Development.
+- 🌱 I’m currently learning ... Android development with Flutter and made a lot of projects on them please check them out.Few of them are still in work.
 - well wersed with DSA and Dbms, SQL.
 - Made few projects in HTML,CSS,PHP.
-- A couple in Flutter
-- Few Model in machine learning.
+- Few Models in machine learning.
 - 📫 How to reach me ... email me: pratyushchaudhry08@gmail.com
 
 <!---
